@@ -1,0 +1,33 @@
+h1, h2{
+	font-family: georgia;
+	text-align: center;
+	background-color: black;
+	color: white;
+	margin-right: 250px;
+	margin-left: 250px;
+}
+
+p {
+	font-family: georgia;
+	letter-spacing: 2px;
+}
+
+#p1 {
+	color: red;
+}
+
+.p2 {
+	color: orange;
+}
+
+body {
+	font-family: georgia;
+}
+
+ul li a {
+	color: lightblue;
+}
+
+ol li a {
+	color: red;
+}

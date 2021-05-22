@@ -1,0 +1,18 @@
+/* belajar text styling */
+
+h1 {
+	background-color: black;
+	margin-right: 300px;
+	margin-left: 300px;
+	color: white;
+	font-size: 150px;
+	text-align: center;
+}
+
+p {
+	font-family: georgia, sans-serif;
+	letter-spacing: 2px;
+	font-size: 200%;
+	color: lightseagreen;
+	text-align: justify;
+}

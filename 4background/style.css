@@ -1,0 +1,23 @@
+h1 {
+	background-image: url('pepe.png');
+	background-size: 10%;
+	background-position: fixed;
+	background-repeat: repeat-x;
+	background-position: center center;
+	margin-right: 300px;
+	margin-left: 300px;
+	color: black;
+	font-size: 150px;
+	text-align: center;
+}
+
+p {
+	font-family: georgia, sans-serif;
+	letter-spacing: 2px;
+	font-size: 200%;
+	color: lightseagreen;
+	text-align: justify;
+}
+body {
+	background-color: #252525;
+}
